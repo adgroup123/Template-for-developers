@@ -1,0 +1,28 @@
+.pull-right{
+	font-family:'Pacifico';
+	color: purple;
+	font-size: 5rem;
+	float: right;
+}
+img{
+	width:100%;
+}
+.carousel-caption{
+	font-size: 3rem;
+	font-weight: bolder;
+}
+#justice{
+	height: 100%;
+}
+
+#aboutushead{
+	font-family: "Pacifico";
+	color:purple;
+}
+#content{
+	font-size: 3rem;
+	font-family: "Pacifico";
+}
+#speak{
+	height: 5rem;
+}
